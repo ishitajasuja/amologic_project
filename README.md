@@ -1,4 +1,5 @@
-# gym1
+# amologic
+
 
 A new Flutter project.
 
